@@ -61,7 +61,7 @@ while True:
                 point = [cx, cy]
                 p11=cx
                 y11=cy
-                cv2.circle(img, (cx, cy), 15, (0, 255, 0), cv2.FILLED)
+                #cv2.circle(img, (cx, cy), 15, (0, 255, 0), cv2.FILLED)
             if(id==12):
                 p12=cx
                 y12=cy
